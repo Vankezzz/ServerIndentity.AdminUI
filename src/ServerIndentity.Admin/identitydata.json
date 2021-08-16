@@ -1,0 +1,25 @@
+{
+  "IdentityData": {
+    "Roles": [
+      {
+        "Name": "admin"
+      }
+    ],
+    "Users": [
+      {
+        "Username": "admin",
+        "Password": "PaSkoruba.IdentityServer4.Admin.Templates::2.0.1word123",
+        "Email": "vankokon@gmail.com",
+        "Roles": [
+          "admin"
+        ],
+        "Claims": [
+          {
+            "Type": "name",
+            "Value": "admin"
+          }
+        ]
+      }
+    ]
+  }
+}
